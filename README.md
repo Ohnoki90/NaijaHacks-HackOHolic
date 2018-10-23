@@ -2,7 +2,7 @@
 NaijaHacks Hackathon 2018
 ==========
 
-## Team IHackOHolic
+## Team HackOHolic
 Team Members
   1. Olaleke Rotimi, rcolaleke@gmail.com
   
